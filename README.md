@@ -1,4 +1,6 @@
 # key_logger
+notice: this is my first repository, so if this have any problme that because i am a new programmer!! :))))
+
 this key logger is connected to the robot of telegram!
 
 but how?!
