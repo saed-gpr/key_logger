@@ -42,3 +42,6 @@ go to @showchatid bot and find your chat id. if you have your account chat id, t
 the tool is ready for use :)))
 
 
+# future:
+
+in future i want to upload a keylogger that stronger than this. so please support me :)
