@@ -1,15 +1,23 @@
 # key_logger
 
 
-notice1: this is my first repository, so if this have any problme that because i am a new programmer!! :))))
+**notice1:** 
+
+this is my first repository, so if this have any problme that because i am a new programmer!! :))))
 
 
-notice2: this tool just for improve your programming knowledge!!
+**notice2:**
 
+this tool just for improve your programming knowledge!!
+
+
+
+
+# about this tool:
 
 this key logger is connected to the robot of telegram!
 
-# but how?!
+**but how?!**
 
 
 this key logger listen to keys that target press that and send for you to telegram.
