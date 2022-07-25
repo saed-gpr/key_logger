@@ -13,11 +13,11 @@ this tool just for improve your programming knowledge **not for vandalism**, so 
 
 
 
-# about this tool:
+# 🤖 about this tool: 
 
 this key logger is connected to the robot of telegram!
 
-**but how?!**
+**but how?!** :thinking:
 
 
 this key logger listen to keys that target press that and send for you to telegram.
