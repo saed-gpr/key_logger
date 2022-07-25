@@ -1,7 +1,7 @@
 # key_logger
 
-*notice: this is my first repository, so if this have any problme that because i am a new programmer!! :))))
-*notice2: this tool just for improve your programming knowledge!!
+notice: this is my first repository, so if this have any problme that because i am a new programmer!! :))))
+notice2: this tool just for improve your programming knowledge!!
 
 
 this key logger is connected to the robot of telegram!
